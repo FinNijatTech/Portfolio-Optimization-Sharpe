@@ -1,2 +1,15 @@
 # Project-Beta-
 Nijat Hasanli, Daryush Ray, Akın Ege
+
+
+## This project on the application of **Maximum Sharpe Ratio and Minimum Variance Portfolio Optimization for Industries** has provided valuable insights into portfolio management strategies. However, there were certain limitations and areas for improvement that should be acknowledged.
+
+**Firstly, the project encountered difficulties due to the lack of clarity regarding the depth of each calculation.** This ambiguity hindered the full replication of the research and may have affected the accuracy of the results. Additionally, minor errors, such as mislabeling Table 3 as a covariance table instead of a correlation table, were present. These mistakes, although relatively small, should be addressed to ensure the integrity and reliability of the findings.
+
+One notable limitation of the study was the **absence of detailed explanations accompanying the calculations and methodology.** While the overall concept was clear, a more comprehensive and step-by-step explanation would have facilitated a better understanding of the research process and outcomes. This aspect should be emphasized in future iterations of the project to enhance the accessibility and educational value of the work.
+
+Furthermore, the project was conducted within specific portfolio limitations, such as a maximum weight allocation of 0.2 and the requirement to select one stock from different industries. While these constraints may have been necessary for the purposes of the study, they might limit the project's ability to fully capture real-world portfolio investment strategies and the decisions made by investors. Exploring a broader range of weight allocations and considering multiple stocks from the same industry could offer a more realistic representation of portfolio management practices.
+
+**Finally,** to further enhance the robustness of the findings, conducting backtesting using a variety of estimation models would be beneficial. This approach would provide a more comprehensive assessment of the portfolio optimization techniques and their performance across different market conditions and data sets. By testing the strategies against alternative models, the project's results can be validated and their applicability in different scenarios can be better understood.
+
+**In conclusion,** while the project made progress in exploring the application of Maximum Sharpe Ratio and Minimum Variance Portfolio Optimization for Industries, it is important to acknowledge the limitations and areas for improvement. Addressing the issues related to calculation depth, ensuring accurate labeling of tables, providing detailed explanations, expanding portfolio limitations, and conducting extensive backtesting would contribute to a more comprehensive and insightful study of portfolio management strategies.
